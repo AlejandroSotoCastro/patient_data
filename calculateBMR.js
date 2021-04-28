@@ -29,3 +29,5 @@ const BMR = patients.map(function(patient){
 
 
 console.log(BMR)
+
+//holaaaaaaaaaaaaaa
